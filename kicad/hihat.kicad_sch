@@ -3588,7 +3588,7 @@
   (symbol (lib_id "ao_symbols:R") (at 49.53 120.65 270) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 4cddb568-0771-4bda-b25c-c9ebb5c9c2f2)
-    (property "Reference" "R?" (id 0) (at 55.88 121.92 90)
+    (property "Reference" "R15" (id 0) (at 55.88 121.92 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "10k" (id 1) (at 50.8 120.65 90)
@@ -5330,6 +5330,9 @@
     (path "/b5be6f70-cd5c-44bc-97f4-a37a69269913/c38d1118-9b7e-4ffd-bc5f-49726b1add55"
       (reference "R14") (unit 1) (value "18k") (footprint "ao_tht:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal")
     )
+    (path "/4cddb568-0771-4bda-b25c-c9ebb5c9c2f2"
+      (reference "R15") (unit 1) (value "10k") (footprint "ao_tht:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal")
+    )
     (path "/b5be6f70-cd5c-44bc-97f4-a37a69269913/e10935e8-de7f-444a-b9ba-c26c46877310"
       (reference "R16") (unit 1) (value "100k") (footprint "ao_tht:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal")
     )
@@ -5530,9 +5533,6 @@
     )
     (path "/8a1b2ba1-3e28-4ac2-b793-a5410bb8c927"
       (reference "R82") (unit 1) (value "75") (footprint "ao_tht:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal")
-    )
-    (path "/4cddb568-0771-4bda-b25c-c9ebb5c9c2f2"
-      (reference "R?") (unit 1) (value "10k") (footprint "ao_tht:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal")
     )
     (path "/9c615a4f-0121-4c09-a99f-26fb1769292a"
       (reference "RV1") (unit 1) (value "10k B OH drive") (footprint "ao_tht:Potentiometer_Alpha_RD901F-40-00D_Single_Vertical_centered")
