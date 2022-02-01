@@ -19522,7 +19522,7 @@
   (dimension (type aligned) (layer "F.Fab") (tstamp 20ac7a70-5cb9-4418-b061-8e4ee8d36b79)
     (pts (xy 105 53) (xy 119 53))
     (height -2.5)
-    (gr_text "14.0000 mm" (at 112 49.35) (layer "F.Fab") (tstamp 00000000-0000-0000-0000-00006151a844)
+    (gr_text "14.0000 mm" (at 112 49.35) (layer "F.Fab") (tstamp 20ac7a70-5cb9-4418-b061-8e4ee8d36b79)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (format (units 2) (units_format 1) (precision 4))
