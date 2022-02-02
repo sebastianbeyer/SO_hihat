@@ -5438,9 +5438,6 @@
     (path "/b5e370ee-3115-4e7a-9815-46552b27b277/a28cd39e-5619-42fc-8460-5ff64613ef4b"
       (reference "R50") (unit 1) (value "1k") (footprint "ao_tht:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal")
     )
-    (path "/b5e370ee-3115-4e7a-9815-46552b27b277/d077909a-d5b2-495e-907e-860d857316fe"
-      (reference "R51") (unit 1) (value "33k") (footprint "ao_tht:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal")
-    )
     (path "/eacdee85-b62a-4dac-9379-30bbbe70428b/866ae18e-260a-4f97-bbee-94f08e3d2b1d"
       (reference "R52") (unit 1) (value "100") (footprint "ao_tht:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal")
     )
